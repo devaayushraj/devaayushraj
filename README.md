@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devaayushraj
 - 👀 I’m interested in software development and robotic automation.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and web development.
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me aayushrah0506@gmail.com
 
